@@ -1,0 +1,33 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.txt</mask>
+      <mask>*.job</mask>
+      <mask>cashstarclient.*</mask>
+      <mask>*.*</mask>
+      <mask>buy_desktop.py</mask>
+      <mask>page_screenshots.*</mask>
+      <mask>PAGE_CHECKS.*</mask>
+      <mask>cashbot_setup.rst</mask>
+      <mask>*.js</mask>
+      <mask>install.js</mask>
+      <mask>page_screenshots.py</mask>
+      <mask>*.py</mask>
+    </recentFileMasks>
+  </component>
+</application>
